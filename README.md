@@ -4,7 +4,7 @@
 💭 Meu nome é Lucas Almeida, sou curioso e uma pessoa apaixonada por aprender !<br>
 🔎 Profissional em Transição de carreira, com foco no Desenvolvimento Full-stack<br>
 🔭 Graduando em Análise e desenvolvimento de sistemas na Universidade Veiga de almeida<br>
-🌐 Estou atualmente aprendendo a linguagem Python<br>
+🌐 Criando projeto full-stack com React<br>
 
 ## ☕ Gostos e Hobbies:
 🎮 Amante de Games<br>
